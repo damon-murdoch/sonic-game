@@ -1,0 +1,27 @@
+ERROR in
+action number 4
+of  Step Event
+for object Obj_Sonic:
+
+Error in code at line 74:   
+            if (ground == true && angle != global.gravity_angle &&                                                     ^at position 52: Unknown variable gravity_angle
+
+
+ERROR in
+action number 4
+of  Step Event
+for object Obj_Sonic:
+
+Error in code at line 74:   
+            if (ground == true && angle != global.gravity_angle &&                                                     ^at position 52: Unknown variable gravity_angle
+
+
+ERROR in
+action number 4
+of  Step Event
+for object Obj_Sonic:
+
+Error in code at line 74:   
+            if (ground == true && angle != global.gravity_angle &&                                                     ^at position 52: Unknown variable gravity_angle
+
+

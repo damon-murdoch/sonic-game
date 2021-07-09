@@ -1,0 +1,9 @@
+FATAL ERROR in
+action number 1
+of Draw Event
+for object Obj_Controller:
+
+COMPILATION ERROR in code actionError in code at line 13:   
+        draw_set_font(global.Fnt_Verdana);                                ^at position 31: Variable name expected.
+
+

@@ -1,0 +1,14 @@
+Unnamed Sonic game project
+
+version 0.1
+
+notes:
+All basic requirements are present, other than the characters, which
+are still being created.
+
+future plans:
+a name
+playable characters
+10+ stages
+multiple storylines
+more enemies / badniks
